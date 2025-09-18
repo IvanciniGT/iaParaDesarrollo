@@ -79,3 +79,19 @@ Para eso usa concurrently, que deberas instaarlo primero
                   |      json-server
                   |
               <--- MOCK
+
+
+              La Volkswagen Crafter L4H3, al ser el modelo más grande, tiene una altura interior de aproximadamente 2.168 metros. Este espacio interior elevado permite a una persona alta estar de pie con comodidad dentro del vehículo. 
+---
+Vamos a empezar con los componentes . Esto son los que habra que montar que a mi se me han ocurrido:
+- Componente Listado de personas
+  - Componente Item del listado de personas
+- Componente Formulario Edición Persona
+- Componente Formulario Nueva Persona
+- Componente Detalle Persona
+
+Primero, dime si lo ves bien? O si crees que falta alguno?
+
+Segundo. Planteame el item del listado de personas.
+Sin hacerlo.
+---
